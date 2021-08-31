@@ -14,3 +14,4 @@ If you have any errors please submit an issue report and send Error Details!
 502 - You didn't enter a correct operator!
 
 If you need any help or anything **McDonalds#0001** is my discord!
+Oh yeah you stupid little fortnite kids who want to critique my code go ahead and i'll steal your fixed code and put it here !!!
