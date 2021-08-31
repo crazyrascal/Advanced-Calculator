@@ -5,7 +5,7 @@ import dev.hyperskys.calculator.utils.CalculatorUtils;
 public class Calculator {
 
    public static void main(String[] args) {
-       CalculatorUtils.setup("defaultSetup");
+       CalculatorUtils.setup("defaultSetup"); // defaultSetup is only available setup method
    }
 
 }
