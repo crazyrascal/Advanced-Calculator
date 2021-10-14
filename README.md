@@ -24,4 +24,4 @@ Calculator.graph(point, point, axis, axis);
 We are planning to make the program runnable in a executable file and have a sleak design to it with multiple different modes such as ```Area Calculator, Triangle Calculator, Graphing Calculator```
 
 ## License
-This project is licensed under [Eclipse Public License](https://github.com/HyperSkys/Calculator/main/LICENSE)
+This project is licensed under [Eclipse Public License](https://github.com/HyperSkys/Calculator/blob/main/LICENSE)
