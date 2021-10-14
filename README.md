@@ -1,22 +1,27 @@
-**SIMPLE CALCULATOR [1.1]**
+# Calculator [1.0]
 
-Just a simple calculator console application made in a few minutes can do
-multiplication, division, subtraction, addition.
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![GitHub](https://img.shields.io/github/languages/code-size/HyperSkys/Calculator?color=cyan&label=Size&labelColor=000000&logo=GitHub&style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/HyperSkys/Calculator?color=violet&logo=GitHub&labelColor=000000&style=for-the-badge)
 
-If you have any errors please submit an issue report and send Error Details!
+**Calculator 1.0** has very basic features such as addition, subtraction and multiplication we have plans to add many other different useful features to the calculator
 
-**ERROR CODES:**
+### Download
 
-500 - You didn't enter a correct number!
+You can download the calculator by going to the release tab on this repository and clicking **Source code (zip)** after doing so you must have Java 8 installed on your computer then run it in Eclipse or Intellij
 
-501 - You cannot divide by zero!
+### API Support
 
-502 - You didn't enter a correct operator!
+We are currently working on a API for this calculator when more advanced features come to the calculator
 
-404 - Improper setup method!
+```java
+Calculator.solve(method, problem);
+Calculator.graph(point, point, axis, axis);
+```
 
-If you need any help or anything **McDonalds#0001** is my discord!
+### Future of Project
 
-**UPDATES**
+We are planning to make the program runnable in a executable file and have a sleak design to it with multiple different modes such as ```Area Calculator, Triangle Calculator, Graphing Calculator```
 
-i made it to where you can input decimals, and it'll solve it.
+## License
+This project is licensed under [Eclipse Public License](https://github.com/HyperSkys/Calcaulator/blob/master/LICENSE)
