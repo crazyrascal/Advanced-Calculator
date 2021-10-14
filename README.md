@@ -5,7 +5,7 @@
 ![GitHub](https://img.shields.io/github/license/HyperSkys/Calculator?color=violet&logo=GitHub&labelColor=000000&style=for-the-badge)
 ![Discord](https://img.shields.io/discord/898154272636678196?color=5865F2&label=Discord&logo=Discord&labelColor=23272a&style=for-the-badge)
 
-**Calculator** is an advanced calculator that can help you with your math problems and math homework
+**Advanced Calculator** is an advanced calculator that can help you with your math problems and math homework
 
 ### Download
 
