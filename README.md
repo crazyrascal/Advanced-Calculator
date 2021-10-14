@@ -16,16 +16,17 @@ You can download the calculator by going to the release tab on this repository a
 We are currently working on a API for this calculator when more advanced features come to the calculator
 
 ```java
-CalculatorAPI.solve(method, problem);
-CalculatorAPI.graph(point, point, axis, axis);
-Problem problem = CalculatorAPI.createProblem(problem);
-Graph graph = CalculatorAPI.createGraph(type);
-Mode mode = CalculatorAPI.indentMode(name, id);
+MarkedGraph graph = CalculatorAPI.createGraph(type);
+IXLHelper ixl = CalculatorAPI.getHelper(IXLUtils.getIXL().getHelperInstance());
 ```
 
 ### Future of Project
 
-We are planning to make the program runnable in a executable file and have a sleak design to it with multiple different modes such as ```Area Calculator, Triangle Calculator, Graphing Calculator``` these modes will be released over periods of times as we want high quality and working updates
+We are planning to make the program runnable in a executable file and have a sleak design to it with multiple different modes such as ```Area Calculator, Triangle Calculator, Graphing Calculator, IXL Helper``` these modes will be released over periods of times as we want high quality and working updates
+
+### IXL
+
+We have made this calculator to help you with your IXL lesson we will be inputting a IXL Mode where you will input Grade, State, How many months have school have you been in, it will then supply you over basic standards that you should be learning you will be able to select them and you will find modes that will help you out on your lessons
 
 ## License
 This project is licensed under [Eclipse Public License](https://github.com/HyperSkys/Calculator/blob/main/LICENSE)
