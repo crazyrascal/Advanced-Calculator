@@ -1,15 +1,15 @@
-# Calculator [1.0]
+# Advanced Calculator
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![GitHub](https://img.shields.io/github/languages/code-size/HyperSkys/Calculator?color=cyan&label=Size&labelColor=000000&logo=GitHub&style=for-the-badge)
 ![GitHub](https://img.shields.io/github/license/HyperSkys/Calculator?color=violet&logo=GitHub&labelColor=000000&style=for-the-badge)
 ![Discord](https://img.shields.io/discord/855415025253744670?color=5865F2&label=Discord&logo=Discord&labelColor=23272a&style=for-the-badge)
 
-**Calculator 1.0** has very basic features such as addition, subtraction and multiplication we have plans to add many other different useful features to the calculator
+**Calculator** is an advanced calculator that can help you with your math problems and math homework
 
 ### Download
 
-You can download the calculator by going to the release tab on this repository and clicking **Source code (zip)** after doing so you must have Java 8 installed on your computer then run it in Eclipse or Intellij
+You can download the calculator by going to the release tab on this repository and clicking the latest release you will then see **Source code (zip)** please click it, after doing so you must have Java 8 installed on your computer then run it in Eclipse or Intellij
 
 ### API Support
 
@@ -22,7 +22,7 @@ IXLHelper ixl = CalculatorAPI.getHelper(IXLUtils.getIXL().getHelperInstance());
 
 ### Future of Project
 
-We are planning to make the program runnable in a executable file and have a sleak design to it with multiple different modes such as ```Area Calculator, Triangle Calculator, Graphing Calculator, IXL Helper``` these modes will be released over periods of times as we want high quality and working updates
+We are planning to make the program runnable in a executable file and have a sleak design to it with many different modes to help you on your math work and help you actually learn the skills, and even get ahead of your class by using our standards lookup tool
 
 ### IXL Lessons
 
