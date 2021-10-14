@@ -2,7 +2,7 @@ name: Feature Request
 description: Suggest a Feature or Improvement
 title: "[Suggestion]: "
 labels: [Open, Suggestion]
-assignees: []
+assignees: [HyperSkys]
 body:
   - type: markdown
     attributes:
