@@ -9,15 +9,15 @@
 
 ### Download
 
-You can download the calculator by going to the release tab on this repository and clicking the latest release you will then see **Source code (zip)** please click it, after doing so you must have Java 8 installed on your computer then run it in Eclipse or Intellij
+You can download the calculator by going to the release tab on this repository and clicking the latest release you will then see **Source code (zip)** please click it, after doing so you must have Java 8 installed on your computer then open and run it in your IDE
 
 ### Discord
 
-You can join are discord using this invite https://discord.gg/Y59DddqZZR please join the server if you have any issues or suggestions that you would like to make do not make random issues when you could just use the discord
+You can join my discord using this invite https://discord.gg/Y59DddqZZR please join the server if you have any issues or suggestions that you would like to make do not make random issues when you could just use the discord
 
 ### API Support
 
-We are currently working on a API for this calculator when more advanced features come to the calculator below are a few examples
+I am currently working on a API for this calculator when more advanced features come to the calculator below are a few examples
 
 ```java
 MarkedGraph graph = CalculatorAPI.createGraph(type);
@@ -26,11 +26,11 @@ IXLHelper ixl = CalculatorAPI.getHelper(IXLUtils.getIXL().getHelperInstance());
 
 ### Update Plans
 
-We are planning to make the program runnable in a executable file and have a sleak design to it with many different modes to help you on your math work and help you actually learn the skills, and even get ahead of your class by using our standards lookup tool
+I am planning to make the program runnable in a executable file and have a sleak design to it with many different modes to help you on your math work and help you actually learn the skills, and even get ahead of your class by using our standards lookup tool
 
 ### IXL Lessons
 
-We have made this calculator to help you with your IXL lesson we will be inputting a IXL Mode where you will input Grade, State, How many months have school have you been in, it will then supply you over basic standards that you should be learning you will be able to select them and you will find modes that will help you out on your lessons
+I have made this calculator to help you with your IXL lesson we will be inputting a IXL Mode where you will input Grade, State, How many months have school have you been in, it will then supply you over basic standards that you should be learning you will be able to select them and you will find modes that will help you out on your lessons
 
 ## License
 This project is licensed under [Eclipse Public License](https://github.com/HyperSkys/Calculator/blob/main/LICENSE)
