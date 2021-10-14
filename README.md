@@ -11,6 +11,10 @@
 
 You can download the calculator by going to the release tab on this repository and clicking the latest release you will then see **Source code (zip)** please click it, after doing so you must have Java 8 installed on your computer then run it in Eclipse or Intellij
 
+### Discord
+
+You can join are discord using this invite https://discord.gg/dXcMxgbS please join the server if you have any issues or suggestions that you would like to make do not make random issues when you could just use the discord
+
 ### API Support
 
 We are currently working on a API for this calculator when more advanced features come to the calculator
