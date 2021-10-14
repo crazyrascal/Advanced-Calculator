@@ -16,8 +16,11 @@ You can download the calculator by going to the release tab on this repository a
 We are currently working on a API for this calculator when more advanced features come to the calculator
 
 ```java
-Calculator.solve(method, problem);
-Calculator.graph(point, point, axis, axis);
+CalculatorAPI.solve(method, problem);
+CalculatorAPI.graph(point, point, axis, axis);
+Problem problem = CalculatorAPI.createProblem(problem);
+Graph graph = CalculatorAPI.createGraph(type);
+Mode mode = CalculatorAPI.indentMode(name, id);
 ```
 
 ### Future of Project
