@@ -24,7 +24,7 @@ IXLHelper ixl = CalculatorAPI.getHelper(IXLUtils.getIXL().getHelperInstance());
 
 We are planning to make the program runnable in a executable file and have a sleak design to it with multiple different modes such as ```Area Calculator, Triangle Calculator, Graphing Calculator, IXL Helper``` these modes will be released over periods of times as we want high quality and working updates
 
-### IXL
+### IXL Lessons
 
 We have made this calculator to help you with your IXL lesson we will be inputting a IXL Mode where you will input Grade, State, How many months have school have you been in, it will then supply you over basic standards that you should be learning you will be able to select them and you will find modes that will help you out on your lessons
 
