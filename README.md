@@ -17,14 +17,14 @@ You can join are discord using this invite https://discord.gg/Y59DddqZZR please 
 
 ### API Support
 
-We are currently working on a API for this calculator when more advanced features come to the calculator
+We are currently working on a API for this calculator when more advanced features come to the calculator below are a few examples
 
 ```java
 MarkedGraph graph = CalculatorAPI.createGraph(type);
 IXLHelper ixl = CalculatorAPI.getHelper(IXLUtils.getIXL().getHelperInstance());
 ```
 
-### Future of Project
+### Update Plans
 
 We are planning to make the program runnable in a executable file and have a sleak design to it with many different modes to help you on your math work and help you actually learn the skills, and even get ahead of your class by using our standards lookup tool
 
