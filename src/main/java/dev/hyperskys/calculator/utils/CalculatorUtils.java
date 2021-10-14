@@ -5,44 +5,42 @@ import java.util.Scanner;
 
 public class CalculatorUtils {
 
-    public static void setup(String s_m71d9_5){
-
-        // Variables \\
+    public static void setup(String s_m71d9_5) {
+        
         char operator;
         double num1;
         double num2 = 0;
         double answer = 0;
-        // Variables \\
 
-        if(s_m71d9_5.equalsIgnoreCase("defaultSetup")){
-            Scanner scanner = new Scanner(System.in); // Creates a scanner
+        if(s_m71d9_5.equalsIgnoreCase("defaultSetup")) {
+            Scanner scanner = new Scanner(System.in);
 
             System.out.println("Please enter first number in equation: ");
 
-            try { // This stops users from putting letters not numbers! ( Error prevention )
-                num1 = scanner.nextDouble(); // Defines what num1 is
-            } catch (InputMismatchException e){
-                System.out.println("Error 500, You didn't enter a correct number!"); // Error code 500
+            try {
+                num1 = scanner.nextDouble();
+            } catch (InputMismatchException e) {
+                System.out.println("You did not enter a vailed number!");
                 return;
             }
 
             System.out.println("Please enter second number in equation: ");
 
             try {
-                num2 = scanner.nextDouble(); // Defines what num2 is
-            } catch (InputMismatchException e){
-                System.out.println("Error 500, You didn't enter a correct number!"); // Error code 501
+                num2 = scanner.nextDouble();
+            } catch (InputMismatchException e) {
+                System.out.println("You did not enter a vailed number!");
             }
 
-            System.out.println("What operation to use: ");
-            operator = scanner.next().charAt(0); // Defines what operator
+            System.out.println("What type of operation would you like to use?: ");
+            operator = scanner.next().charAt(0);
 
-            if(0 == num2 && operator == '/'){ // Checks if they are dividing by zero
-                System.out.println("Error 501, You cannot divide by zero!");
+            if(0 == num2 && operator == '/') {
+                System.out.println("You cannot divide by zero but personally I think its 0!");
                 return;
             }
 
-            switch(operator) { // Switch statement for operators
+            switch(operator) {
 
                 case '+':
                     answer = num1 + num2;
@@ -61,16 +59,13 @@ public class CalculatorUtils {
                     break;
 
                 default: // If they didn't enter a correct operator
-                    System.out.println("Error 502, You didn't enter a correct operator!");
-                    System.out.println("Usages: '-', '+', '/', '*'");
+                    System.out.println("You did not enter a vailed operator!");
                     return;
             }
 
-            System.out.println("-----------------------");
-            System.out.println(num1 + " " + operator + " " + num2 + " = " + answer);
-            System.out.println("-----------------------");
+            System.out.println("Solution: " + num1 + " " + operator + " " + num2 + " = " + answer);
         } else {
-            System.out.println("Error 404, improper setup method!");
+            System.out.println("You selected an improper setup method!");
         }
 
     }
