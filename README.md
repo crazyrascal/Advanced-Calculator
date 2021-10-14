@@ -3,6 +3,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![GitHub](https://img.shields.io/github/languages/code-size/HyperSkys/Calculator?color=cyan&label=Size&labelColor=000000&logo=GitHub&style=for-the-badge)
 ![GitHub](https://img.shields.io/github/license/HyperSkys/Calculator?color=violet&logo=GitHub&labelColor=000000&style=for-the-badge)
+![Discord](https://img.shields.io/discord/855415025253744670?color=5865F2&label=Discord&logo=Discord&labelColor=23272a&style=for-the-badge)
 
 **Calculator 1.0** has very basic features such as addition, subtraction and multiplication we have plans to add many other different useful features to the calculator
 
