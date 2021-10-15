@@ -24,10 +24,6 @@ MarkedGraph graph = CalculatorAPI.createGraph(type);
 IXLHelper ixl = CalculatorAPI.getHelper(IXLUtils.getIXL().getHelperInstance());
 ```
 
-### Update Plans
-
-I am planning to make the program runnable in a executable file and have a sleak design to it with many different modes to help you on your math work and help you actually learn the skills, and even get ahead of your class by using our standards lookup tool
-
 ### IXL Lessons
 
 I have made this calculator to help you with your IXL lesson we will be inputting a IXL Mode where you will input Grade, State, How many months have school have you been in, it will then supply you over basic standards that you should be learning you will be able to select them and you will find modes that will help you out on your lessons
