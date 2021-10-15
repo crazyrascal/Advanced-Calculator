@@ -9,20 +9,20 @@
 
 ### Download
 
-You can download the calculator by going to the release tab on this repository and clicking the latest release you will then see **Source code (zip)** please click it, after doing so you must have Java 8 installed on your computer then open and run it in your IDE
-
-### Discord
-
-You can join my discord using this invite https://discord.gg/Y59DddqZZR please join the server if you have any issues or suggestions that you would like to make do not make random issues when you could just use the discord
+You can download the calculator by going to the release tab on this repository and clicking the latest release you will then see **Source code (zip)** please click it, after doing so you must have Java 8 installed on your computer then open and run it in your IDE or you can run it 
 
 ### API Support
 
-I am currently working on a API for this calculator when more advanced features come to the calculator below are a few examples
+I am currently working on a API for this calculator when more advanced features come to the calculator below are a few examples of what is to come with the public API it is planned to be partly released around 1.0.5-BETA but could be later or even shorter it depends
 
 ```java
 MarkedGraph graph = CalculatorAPI.createGraph(type);
 IXLHelper ixl = CalculatorAPI.getHelper(IXLUtils.getIXL().getHelperInstance());
 ```
+
+### Discord
+
+You can join my discord using this invite https://discord.gg/Y59DddqZZR please join the server if you have any issues or suggestions that you would like to make do not make random issues when you could just use the discord
 
 ### IXL Lessons
 
