@@ -9,7 +9,7 @@
 
 ### Download
 
-You can download the calculator by going to the release tab on this repository and clicking the latest release you will then see **Source code (zip)** please click it, after doing so you must have Java 8 installed on your computer then open and run it in your IDE or you can run the jar file with a batch file
+You can download the calculator by going to the release tab on this repository and clicking the latest release you will then see **Advanced-Calculator.jar** download it then put it on the directory you want then create a .bat file with this inside of it `java -cp Advanced-Calculator.jar dev.hyperskys.advancedcalculator.AdvancedCalculator` then save the file and run the .bat file
 
 ### Discord
 
