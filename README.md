@@ -9,7 +9,7 @@
 
 ### Download
 
-You can download the calculator by going to the release tab on this repository and clicking the latest release you will then see **Source code (zip)** please click it, after doing so you must have Java 8 installed on your computer then open and run it in your IDE
+You can download the calculator by going to the release tab on this repository and clicking the latest release you will then see **Source code (zip)** please click it, after doing so you must have Java 8 installed on your computer then open and run it in your IDE or you can run the jar file with a batch file
 
 ### Discord
 
