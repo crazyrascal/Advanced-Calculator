@@ -9,7 +9,7 @@
 
 ### Download
 
-You can download the calculator by going to the release tab on this repository and clicking the latest release you will then see **Advanced-Calculator.jar** download it then put it on the directory you want then create a .bat file with this inside of it `java -cp Advanced-Calculator.jar dev.hyperskys.advancedcalculator.AdvancedCalculator` then save the file and run the .bat file
+You can download the calculator by watching this simple youtube video which will guide you through all the setups to start using the calculator https://youtu.be/-4y4fASkjTQ if you still need help please join are support server
 
 ### Discord
 
